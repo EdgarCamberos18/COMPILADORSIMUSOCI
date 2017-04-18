@@ -2,7 +2,7 @@ package Analisis;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-//COMENTARIO
+
 public class AnalizadorLexico {
     String regex;
     Pattern patron;
